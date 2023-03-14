@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 I am a creative and hard working full stack software engineer. I have a bachelor's in Multimedia, and have also worked a string of retail and customer service jobs, often oriented around tech, travel or creativity. During the pandemic my place of work closed down. I began learning full stack software engineering, and even after my work reopened, I continued learning and started freelancing. I enjoy traveling, watching movies, and reading in my free time.
 
-*   🌍  I'm based in Western Texas, United States
+*   🌍  I'm based in San Angelo, Texas, United States
 *   🖥️  See my portfolio at [https://allenawilliamsonportfolio.netlify.app/](http://allenawilliamsonportfolio.netlify.app/)
 *   🧠  I'm learning Node.js and Express
 *   ⚡  I love dinosaurs and Jurassic Park
